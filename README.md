@@ -5,7 +5,7 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# I'm Ayush Chouksey
+# Ayush Chouksey
 **A passionate Java Developer +  Cloud Engineer**
 
 Email Me  ✉️ **ayushhchouksey@gmail.com** For Collaboration.
